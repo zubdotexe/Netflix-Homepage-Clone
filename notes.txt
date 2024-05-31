@@ -1,0 +1,3 @@
+netflix.com/favicon.ico likhe search korle netflix er favicon paoa jay
+
+.ico file index.html er shathe rakhsi, extra kore kono html code likha lage nai
